@@ -1,0 +1,14 @@
+c:\users\alberto\documents\visual studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\bin\Debug\WolframAlgorithm.exe.config
+c:\users\alberto\documents\visual studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\obj\Debug\WolframAlgorithm.Properties.Resources.resources
+c:\users\alberto\documents\visual studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\obj\Debug\WolframAlgorithm.csproj.GenerateResource.Cache
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\bin\Debug\WolframAlgorithm.exe
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\bin\Debug\WolframAlgorithm.pdb
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\bin\Debug\encog-core-cs.dll
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\bin\Debug\encog-core-cs.xml
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\obj\Debug\WolframAlgorithm.WolframForm.resources
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\obj\Debug\WolframAlgorithm.exe
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\obj\Debug\WolframAlgorithm.pdb
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\bin\Debug\MyControlLibrary.dll
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\bin\Debug\MyControlLibrary.pdb
+C:\Users\alberto\documents\visual studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\obj\Debug\WolframAlgorithm.MemoryFileDefinition.resources
+C:\Users\alberto\Documents\Visual Studio 2012\Projects\WolframAlgorithm\WolframAlgorithm\obj\Debug\WolframAlgorithm.csprojResolveAssemblyReference.cache
